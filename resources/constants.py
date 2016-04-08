@@ -21,10 +21,14 @@ products = {
     'Stagg Jr.': '021540',
     'EH Taylor Small Batch': '021602',
     'EH Taylor Jr Barrel Proof': '021600',
+    'EH Taylor Seasoned Wood': '021603',
     'EH Taylor Jr Straight Rye': '027101',
     'Buffalo Trace 1.75L': '018008'
-    'EH Taylor Seasoned Wood': '021603',
     'Yellowstone 105 7yr': '022246',
+    'WL Weller Mystery 1': '022036',
+    'WL Weller Mystery 2': '021976',
+    'WL Weller Mystery 3': '950044',
+    'WL Weller Mystery 4': '950234',
 }
 
 # products = {'Ancient Age 10y 1.75L': '016538',
